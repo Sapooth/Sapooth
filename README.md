@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Email :sapoothskoop11@gmail.com | LinkedIn : https://www.linkedin.com/in/sapooth-sanjaya-13b1a5203/**
 
-- 📄 My CV https:https://drive.google.com/file/d/1VrU7495JpxENJOPoXvVrFtM-Sl_HmMFG/view?usp=share_link
+- 📄 My CV https://drive.google.com/file/d/1VrU7495JpxENJOPoXvVrFtM-Sl_HmMFG/view?usp=share_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
