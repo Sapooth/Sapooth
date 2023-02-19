@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/sapooth-sanjaya-13b1a5203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/isura-eranda-989403215" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sapooth.skoop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isura eranda madiwilage" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sapooth-sanjaya-13b1a5203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sapooth sanjaya-989403215" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sapooth.skoop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sapooth Sanjaya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
